@@ -1,0 +1,17 @@
+D:\JWTRefreshToken\JWTRefreshToken\bin\Debug\netcoreapp2.2\JWTRefreshToken.deps.json
+D:\JWTRefreshToken\JWTRefreshToken\bin\Debug\netcoreapp2.2\JWTRefreshToken.runtimeconfig.json
+D:\JWTRefreshToken\JWTRefreshToken\bin\Debug\netcoreapp2.2\JWTRefreshToken.runtimeconfig.dev.json
+D:\JWTRefreshToken\JWTRefreshToken\bin\Debug\netcoreapp2.2\JWTRefreshToken.dll
+D:\JWTRefreshToken\JWTRefreshToken\obj\Debug\netcoreapp2.2\JWTRefreshToken.csprojAssemblyReference.cache
+D:\JWTRefreshToken\JWTRefreshToken\obj\Debug\netcoreapp2.2\JWTRefreshToken.RazorAssemblyInfo.cache
+D:\JWTRefreshToken\JWTRefreshToken\obj\Debug\netcoreapp2.2\JWTRefreshToken.RazorAssemblyInfo.cs
+D:\JWTRefreshToken\JWTRefreshToken\obj\Debug\netcoreapp2.2\JWTRefreshToken.AssemblyInfoInputs.cache
+D:\JWTRefreshToken\JWTRefreshToken\obj\Debug\netcoreapp2.2\JWTRefreshToken.AssemblyInfo.cs
+D:\JWTRefreshToken\JWTRefreshToken\obj\Debug\netcoreapp2.2\JWTRefreshToken.RazorTargetAssemblyInfo.cache
+D:\JWTRefreshToken\JWTRefreshToken\bin\Debug\netcoreapp2.2\JWTRefreshToken.pdb
+D:\JWTRefreshToken\JWTRefreshToken\obj\Debug\netcoreapp2.2\JWTRefreshToken.dll
+D:\JWTRefreshToken\JWTRefreshToken\obj\Debug\netcoreapp2.2\JWTRefreshToken.pdb
+D:\JWTRefreshToken\JWTRefreshToken\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\JWTRefreshToken\JWTRefreshToken\bin\Debug\netcoreapp2.2\appsettings.json
+D:\JWTRefreshToken\JWTRefreshToken\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\JWTRefreshToken\JWTRefreshToken\obj\Debug\netcoreapp2.2\JWTRefreshToken.genruntimeconfig.cache
